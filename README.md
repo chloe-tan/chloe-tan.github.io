@@ -1,2 +1,3 @@
-# chloe-tan.github.io
-Personal website (brought over from previous github account)
+# Chloe's / FluffDucks' Portfolio 
+
+Website: <a href="http://fluffducks.github.io" target="_blank">fluffducks.github.io</a>
